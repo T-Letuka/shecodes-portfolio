@@ -1,0 +1,53 @@
+body {
+  background-color: #edede9;
+  font-family: "Times New Roman", Times, serif;
+}
+
+.container {
+  margin: 0 auto;
+  padding: 10px 10px;
+  width: 50%;
+  margin-top: 40px;
+}
+h2 {
+  text-align: center;
+  font-size: 48px;
+  margin: 0;
+}
+h1 {
+  text-align: center;
+  font-size: 100px;
+  margin: 0;
+}
+h3 {
+  opacity: 0.7;
+  text-align: center;
+}
+span {
+  margin-right: 10px;
+  font-size: 15px;
+}
+.buttons {
+  display: flex;
+  gap: 15px;
+  justify-content: center;
+  margin-top: 18px;
+}
+
+.contact {
+  background-color: white;
+  padding: 18px 18px;
+  border: 1px solid #f72585;
+  border-radius: 10px;
+  color: #f72585;
+}
+.about {
+  background-color: #f72585;
+  padding: 18px 18px;
+  border-radius: 10px;
+  color: white;
+}
+a {
+  text-decoration: none;
+  color: black;
+}
